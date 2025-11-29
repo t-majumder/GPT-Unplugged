@@ -12,12 +12,7 @@ An opensource Local RAG-based GPT assistant for **maximum privacy**. You have th
 
 ## 🚀 Supported Models
 
-- **Qwen 32B**
-- **GPT OSS 120B**
-- **Kimi K2 Instruct**
-- **LLama 3.3 70B**
-
-## 📸 Screenshots
+- **Qwen 32B** , **GPT OSS 120B** , **Kimi K2 Instruct** ,  **LLama 3.3 70B** , **Ollama model api integration (TBD)**
 
 ### PC Integration
 
