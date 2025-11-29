@@ -19,8 +19,8 @@ An Open-source, **Interconnected Local server-based GPT assistant** for **maximu
 
 ### Mobile and tab integration
 <div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/56132c4e-061f-4f1b-8804-bb6e3125e62f" style="height: 452px; flex: 1; object-fit: contain;">
-  <img src="https://github.com/user-attachments/assets/68989f8f-2dfb-4051-80ab-5c9ad90956b2" style="height: 452px; flex: 1; object-fit: contain;">
+  <img src="https://github.com/user-attachments/assets/56132c4e-061f-4f1b-8804-bb6e3125e62f" style="height: 450px; flex: 1; object-fit: contain;">
+  <img src="https://github.com/user-attachments/assets/68989f8f-2dfb-4051-80ab-5c9ad90956b2" style="height: 450px; flex: 1; object-fit: contain;">
 </div>
 
 ### Sample Outputs
