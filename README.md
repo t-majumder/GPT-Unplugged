@@ -1,33 +1,32 @@
 # Research_gpt
+<img width="1584" height="396" alt="Untitled design (1)-modified" src="https://github.com/user-attachments/assets/5edb7f80-085a-455f-b06e-c6574c8f9d68" />
 
-An opensource Local RAG-based GPT assistant for **maximum privacy**. You have the ultimate control of your data.
+An Open-source, **Interconnected Local server-based GPT assistant** for **maximum privacy**. **Giving you the ultimate control of your data**.
 
 ## ✨ Features
 
-- 🔐 **Complete Privacy**: All data stays local on your machine
-- 🆓 **Integrated Free Grok API**: No subscription required
-- 🌐 **Cross-Device Access**: Use Tailscale to access the service across devices in your local network
-- 📱 **Multi-Platform**: Full support for PC, mobile, and tablet devices
-- 🤖 **Ollama Integration**: Host models locally for complete independence
-
-## 🚀 Supported Models
-
-- **Qwen 32B** , **GPT OSS 120B** , **Kimi K2 Instruct** ,  **LLama 3.3 70B** , **Ollama model api integration (TBD)**
-
+-  **Complete Privacy**: All data stays local on your machine
+-  **Integrated Free Grok API**: No subscription required
+-  **Cross-Device Access**: Use Tailscale to access the service across devices in your local network
+-  **Multi-Platform**: Full support for PC, mobile, and tablet devices
+-  **Ollama Integration**: Host models locally for complete independence
+-  **Model Supports**: **Qwen 32B** , **GPT OSS 120B** , **Kimi K2 Instruct** ,  **LLama 3.3 70B** ,
+- **Upcoming**: **Ollama model api integration (TBD)**
+   
 ### PC Integration
 
 <img width="1909" height="904" alt="Screenshot 2025-11-29 194117-modified" src="https://github.com/user-attachments/assets/e68edb7f-59a2-4cdb-bf9f-d8af60dca062" />
 
+### Mobile and tab integration
+<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/56132c4e-061f-4f1b-8804-bb6e3125e62f" style="height: 452px; flex: 1; object-fit: contain;">
+  <img src="https://github.com/user-attachments/assets/68989f8f-2dfb-4051-80ab-5c9ad90956b2" style="height: 452px; flex: 1; object-fit: contain;">
+</div>
+
+### Sample Outputs
 <img width="1914" height="874" alt="Screenshot 2025-11-29 194854-modified" src="https://github.com/user-attachments/assets/4afea833-30e2-470e-8269-af81d153e232" />
 
 <img width="1912" height="905" alt="Screenshot 2025-11-29 194917-modified" src="https://github.com/user-attachments/assets/01f619b3-ac06-45c9-aea2-9076b372a2fc" />
-
-### Mobile and tab integration
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/56132c4e-061f-4f1b-8804-bb6e3125e62f" height="400" />
-  <img src="https://github.com/user-attachments/assets/68989f8f-2dfb-4051-80ab-5c9ad90956b2" height="400" />
-</p>
-
 
 ## 📦 Installation
 
