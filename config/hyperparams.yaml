@@ -1,0 +1,28 @@
+# File: hyperparams.yaml
+
+# File and Database paths
+pdfs_directory: "pdfs"
+db_path: "vectorstore"
+
+embedding_model: "BAAI/bge-small-en-v1.5"
+
+# Parameters for text splitting
+text_splitting:
+  chunk_size: 180          # Chunking Length
+  chunk_overlap: 30        # Overlap between chunks
+  add_start_index: true     # Include start index in chunks
+
+# Parameters for retrieval during chat
+retrieval:
+  search_type: "similarity" # cosine similarity based search
+  top_k: 10                 # Top K
+  min_similarity: 0.80
+
+# File upload limits (No need to change in code because supports 25MB by default)
+file_upload_limits:
+  max_file_size_mb: 25
+  max_file_size_bytes: 26214400
+
+# Chat history parameters
+chat_history:
+  max_history_messages: 10  # Number of messages to include in context (5 exchanges)
