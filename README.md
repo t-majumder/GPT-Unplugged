@@ -22,9 +22,12 @@ An opensource Local RAG-based GPT assistant for **maximum privacy**. You have th
 
 <img width="1912" height="905" alt="Screenshot 2025-11-29 194917-modified" src="https://github.com/user-attachments/assets/01f619b3-ac06-45c9-aea2-9076b372a2fc" />
 
-### Docker Implementation
+### Mobile and tab integration
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56132c4e-061f-4f1b-8804-bb6e3125e62f" height="400" />
+  <img src="https://github.com/user-attachments/assets/68989f8f-2dfb-4051-80ab-5c9ad90956b2" height="400" />
+</p>
 
-<img width="1269" height="717" alt="Screenshot 2025-11-29 180152-modified" src="https://github.com/user-attachments/assets/ac594b25-5efa-4723-926b-248d214e3597" />
 
 ## 📦 Installation
 
@@ -63,6 +66,7 @@ Start the application using Docker:
 ```bash
 docker run -p 8000:8000 research_gpt
 ```
+<img width="1269" height="717" alt="Screenshot 2025-11-29 180152-modified" src="https://github.com/user-attachments/assets/ac594b25-5efa-4723-926b-248d214e3597" />
 
 ### Accessing the Interface
 
