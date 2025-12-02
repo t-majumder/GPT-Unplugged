@@ -103,4 +103,4 @@ If you find this project useful, please consider giving it a star on GitHub!
 
 ---
 
-**Note**: This project prioritizes your privacy. All data processing happens locally on your machine, and you maintain complete control over your information.
+**Note**: This project prioritises your privacy. All data processing happens locally on your machine, and you maintain complete control over your information.
