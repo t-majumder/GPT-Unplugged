@@ -98,7 +98,6 @@ For local model hosting with Ollama:
 MIT Liscense
 
 ## ⭐ Support
-
 If you find this project useful, please consider giving it a star on GitHub!
 
 ---
