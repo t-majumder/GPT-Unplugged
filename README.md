@@ -11,7 +11,7 @@ An Open-source, **Interconnected Local server-based GPT assistant** for **maximu
 -  **Multi-Platform**: Full support for PC, mobile, and tablet devices
 -  **Ollama Integration**: Host models locally for complete independence
 -  **Model Supports**: **Qwen 32B** , **GPT OSS 120B** , **Kimi K2 Instruct** ,  **LLama 3.3 70B** ,
-- **Upcoming**: **Ollama model api integration (TBD)**
+- **Upcoming**: **Ollama model api integration (TBD) & Multiagent system**
    
 ### PC Integration
 
