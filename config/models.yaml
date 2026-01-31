@@ -1,0 +1,14 @@
+#------------------------------------------------------------
+#------------------ You can add models here -----------------
+#------------------------------------------------------------
+models:
+  "GPT-OSS 120B": "openai/gpt-oss-120b"
+  "Qwen3 32B": "qwen/qwen3-32b"
+  "Kimi K2 Instruct": "moonshotai/kimi-k2-instruct-0905"
+  "GPT-OSS 20B": "openai/gpt-oss-20b"
+  "Llama 3.3 70B": "llama-3.3-70b-versatile"
+  "Gemma3 1B (Ollama)": "ollama:gemma3:1b"
+  "Gemma3 4B (Ollama)": "ollama:gemma3:4b"
+  "Qwen3 4B (Ollama)": "ollama:qwen3:4b"
+
+  # Add more models as needed
