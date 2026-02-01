@@ -104,6 +104,11 @@ http://localhost:5173/
 
 ## 🔧 Advanced Configuration
 You can configure the peompt (Behavior) and add models using the config files directly.
+
+<p align="center">
+  <img src="/images/files.png" alt="Theme" width="400">
+</p>
+
 ```bash
 GPT-Unplugged/
 ├── config/
