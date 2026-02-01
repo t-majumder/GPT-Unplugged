@@ -24,21 +24,22 @@
 <!-- writeup -->
 <p align="center">
   <strong>👋🏻 Hi everyone! GPT Unplugged🔌 an interconnected, local server-based, fully customizable, privacy-focused research agent.</strong><br>
+  <strong>Ultimate control of your data and conversations.</strong>
 </p>
-
-**Scenario 1:** Tomorrow if there is **No internet access** this can be your **Local personal assistant** with new knowledge. Feed it your documents or books or pdfs and keep the conversation rolling. It has **cross model memory** so none of your previous chat or context is lost in between. Switch moel and keep the conversation rolling.
-\
-\
-**Scenario 2:** In your local network just run on one machine and use in all devices. Alll device under same **WIFI** network. So basically your personal bot whom you have deep conversations with when youre sleepy or in bed... \
-**(Watch the movie 'HER' you'll get the reference...)**
 
 <!-- customization image -->
 <p align="center">
   <img src="/images/theme_selection.png" alt="Theme" width="800">
 </p>
-<p align="center">
-<strong>Giving you the ultimate control of your data and conversations.</strong>
-</p>
+
+**Scenario 1:**  
+Tomorrow if there is **No internet access** this can be your **Local personal assistant** with new knowledge. Feed it your documents or books or pdfs and keep the conversation rolling. It has **cross model memory** so none of your previous chat or context is lost in between. Switch moel and keep the conversation rolling.
+\
+\
+**Scenario 2:**  
+In your **local network** just run on one machine and **use in all your personal devices**. All device under the same **WIFI** network. So basically your personal bot whom you have deep conversations with when youre sleepy or in bed... \
+**(Watch the movie 'HER' you'll get the reference...)**
+
 
 ## ✨ Features
 -  **Complete Privacy**: All data stays local on your machine
@@ -96,18 +97,15 @@ Now you can access the website from your browser. (copy-paste this link inside y
 http://localhost:5173/
 ```
 <p align="center">
-  <img src="/images/interface.png" alt="Theme" width="1000">
+  <img src="/images/multidevice.png" alt="Theme" width="1000">
 </p>
 
-
-## Usage
+## Usage Example
 <p align="center">
-  <img src="/images/demo.png" alt="Theme" width="600">
+  <img src="/images/demo.png" alt="Theme" width="1000">
 </p>
 
 ### Mobile and tab integration
-
-
 
 ### Sample Outputs
 
