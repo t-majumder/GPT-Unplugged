@@ -103,10 +103,10 @@ http://localhost:5173/
 ```
 
 ## 🔧 Advanced Configuration
-You can configure the peompt (Behavior) and add models using the config files directly.
+* You can configure the **prompt (Behavior)** and **add models** using the config files directly.
 
 <p align="center">
-  <img src="/images/files.png" alt="Theme" width="400">
+  <img src="/images/file.png" alt="Theme" width="400">
 </p>
 
 ```bash
@@ -118,29 +118,31 @@ GPT-Unplugged/
 ```
 
 <p align="center">
-  <img src="/images/multidevice_support.png" alt="Theme" width="1000">
+  <img src="/images/demo.png" alt="Theme" width="1000">
 </p>
 
 ## 🦙 Ollama Integration
 
-For local model hosting with Ollama:
-Just install [Ollama](https://ollama.ai) and download the models. (done)
+For local model hosting with **Ollama**:
+Just install [Ollama](https://ollama.ai) and **download** the models. (done)
 ```bash
 ollama run gemma3:4b
 ```
-This command downloads the model. You can download and add other models as well...
+**This command downloads the model.** You can download and add other models as well...
 
 ## ⚡Local Server
-To access Research_gpt from other devices on your network:
+To access **GPT Unplugged** from other devices on your network:
 
-1. Install [Tailscale](https://tailscale.com) on all devices
-2. Connect your devices to the same Tailscale network
-3. Access the application using your Tailscale IP
+1. **Install** [Tailscale](https://tailscale.com) on all devices
+2. **Connect** your devices to the same Tailscale network
+3. **Access** the application using your Tailscale IP
 ```bash
 http://Your Tailscale IP:5173/
 ```
+
+## Multi Device Support
 <p align="center">
-  <img src="/images/demo.png" alt="Theme" width="1000">
+  <img src="/images/multidevice_support.png" alt="Theme" width="1000">
 </p>
 
 ## 📄 License
