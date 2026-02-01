@@ -5,7 +5,7 @@ let showDebug = false;
 function el(id) { return document.getElementById(id); }
 
 // CHANGE THIS TO YOUR TAILSCALE IP
-const BACKEND_BASE = "http://100.89.111.87:8000"; // <-- YOUR Tailscale IP here
+const BACKEND_BASE = "http://localhost:8000"; // <-- YOUR Tailscale IP here
 
 // Example : "http://101.85.111.87:8000"; 
 // 101.85.111.87 --> only replace this portion with your IP address from tailscale
@@ -511,5 +511,6 @@ async function bootstrap() {
   await refreshStatus();
   updateEmptyState();
 }
+
 
 bootstrap();
