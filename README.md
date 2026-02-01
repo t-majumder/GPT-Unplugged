@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/images/Logo.png" alt="Theme" width="600">
+  <img src="frontend/images/Logo.png" alt="Theme" width="450">
 
 <!-- stars and logos -->
 
@@ -24,12 +24,6 @@
 <!-- writeup -->
 <p align="center">
   <strong>👋🏻 Hi everyone! GPT Unplugged🔌 an interconnected, local server-based, fully customizable, privacy-focused research agent.</strong><br>
-  <strong>Giving you the ultimate control of your data and conversations.</strong>
-</p>
-
-<!-- customization image -->
-<p align="center">
-  <img src="/images/theme_selection.png" alt="Theme" width="800">
 </p>
 
 **Scenario 1:** Tomorrow if there is **No internet access** this can be your **Local personal assistant** with new knowledge. Feed it your documents or books or pdfs and keep the conversation rolling. It has **cross model memory** so none of your previous chat or context is lost in between. Switch moel and keep the conversation rolling.
@@ -38,6 +32,13 @@
 **Scenario 2:** In your local network just run on one machine and use in all devices. Alll device under same **WIFI** network. So basically your personal bot whom you have deep conversations with when youre sleepy or in bed... \
 **(Watch the movie 'HER' you'll get the reference...)**
 
+<!-- customization image -->
+<p align="center">
+  <img src="/images/theme_selection.png" alt="Theme" width="800">
+</p>
+<p align="center">
+<strong>Giving you the ultimate control of your data and conversations.</strong>
+</p>
 
 ## ✨ Features
 -  **Complete Privacy**: All data stays local on your machine
