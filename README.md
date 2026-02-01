@@ -12,8 +12,7 @@
 
 <!-- writeup -->
 <p align="center">
-  <strong>👋🏻 Hi everyone! GPT Unplugged🔌 an interconnected, local server-based, fully customizable, privacy-focused research agent.</strong><br>
-  <strong>Ultimate control of your data and conversations.</strong>
+  <strong>👋🏻 Hi everyone! GPT Unplugged🔌 is an interconnected, local server-based, fully customizable, privacy-focused research agent with consistent memory across models. Focused on giving you the ultimate control of your data and conversations.</strong>
 </p>
 
 <!-- customization image -->
