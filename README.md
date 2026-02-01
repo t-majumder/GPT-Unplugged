@@ -32,11 +32,16 @@
   <img src="/images/theme_selection.png" alt="Theme" width="800">
 </p>
 
-**Scenario 1:**  
+<p align="center">
+<strong>Scenario 1 </strong>
+</p>
+
 Tomorrow if there is **No internet access** this can be your **Local personal assistant** with new knowledge. Feed it your documents or books or pdfs and keep the conversation rolling. It has **cross model memory** so none of your previous chat or context is lost in between. Switch moel and keep the conversation rolling.
-\
-\
-**Scenario 2:**  
+
+<p align="center">
+<strong>Scenario 2 </strong>
+</p>  
+
 In your **local network** just run on one machine and **use in all your personal devices**. All device under the same **WIFI** network. So basically your personal bot whom you have deep conversations with when youre sleepy or in bed... \
 **(Watch the movie 'HER' you'll get the reference...)**
 
@@ -96,37 +101,42 @@ Now you can access the website from your browser. (copy-paste this link inside y
 ```bash
 http://localhost:5173/
 ```
-<p align="center">
-  <img src="/images/multidevice.png" alt="Theme" width="1000">
-</p>
-
-## Usage Example
-<p align="center">
-  <img src="/images/demo.png" alt="Theme" width="1000">
-</p>
-
-### Mobile and tab integration
-
-### Sample Outputs
-
 
 ## 🔧 Advanced Configuration
+You can configure the peompt (Behavior) and add models using the config files directly.
+```bash
+GPT-Unplugged/
+├── config/
+│   ├── prompt.yaml    # Add your custom prompt
+│   ├── models.yaml    # Add the model name
+│   ├── hyperparams.yaml    # Other hyperparams you can tune as well
+```
 
-### Using Tailscale for Remote Access
+<p align="center">
+  <img src="/images/multidevice_support.png" alt="Theme" width="1000">
+</p>
 
+## 🦙 Ollama Integration
+
+For local model hosting with Ollama:
+Just install [Ollama](https://ollama.ai) and download the models. (done)
+```bash
+ollama run gemma3:4b
+```
+This command downloads the model. You can download and add other models as well...
+
+## ⚡Local Server
 To access Research_gpt from other devices on your network:
 
 1. Install [Tailscale](https://tailscale.com) on all devices
 2. Connect your devices to the same Tailscale network
 3. Access the application using your Tailscale IP
-
-### Ollama Integration
-
-For local model hosting with Ollama:
-
-1. Install [Ollama](https://ollama.ai)
-2. Configure the Ollama API endpoint in your settings
-3. Start hosting models locally for complete privacy
+```bash
+http://Your Tailscale IP:5173/
+```
+<p align="center">
+  <img src="/images/demo.png" alt="Theme" width="1000">
+</p>
 
 ## 📄 License
 MIT Liscense
