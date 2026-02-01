@@ -7,15 +7,12 @@
   <a href="https://github.com/t-majumder/GPT-Unplugged/stargazers">
     <img src="https://img.shields.io/github/stars/t-majumder/GPT-Unplugged?style=plastic&logo=github&logoColor=white" alt="GitHub stars">
   </a>
-
   <a href="https://x.com/dextro_rx">
     <img src="https://img.shields.io/badge/X-@dextro_rx-black?style=plastic&logo=x&logoColor=white" alt="X">
   </a>
-
   <a href="https://scholar.google.com/citations?user=7jXnxCkAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Scholar-Profile-4285F4?style=plastic&logo=google-scholar&logoColor=white" alt="Website">
   </a>
-
   <a href="https://github.com/t-majumder/GPT-Unplugged/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green?style=plastic&logo=open-source-initiative&logoColor=white" alt="MIT License">
   </a>
