@@ -70,7 +70,7 @@ GPT-Unplugged/
 ```bash
 run run.ps1
 ```
-or
+or 
 ```bash
 bash run.sh
 ```
