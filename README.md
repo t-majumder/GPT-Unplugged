@@ -128,7 +128,7 @@ MIT Liscense
 
 ## ⭐ Support
 If you find this project useful, please consider giving it a star on GitHub!
-
+# Will be adding tools in version 3.
 ---
 
 **Note**: This project prioritises your privacy. All data processing happens locally on your machine, and you maintain complete control over your information.
