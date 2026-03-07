@@ -19,7 +19,7 @@
 <p align="center">
   <img src="/images/theme_selection.png" alt="Theme" width="800">
 </p>
-
+ 
 <p align="center">
 <strong>Scenario 1 </strong>
 </p>
