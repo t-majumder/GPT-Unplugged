@@ -1,7 +1,7 @@
 <p align="center">
   <img src="frontend/images/Logo.png" alt="Theme" width="450">
 
-<!-- stars and logos -->
+<!-- stars and logos --> 
 
 <p align="center">
   <!-- <a href="https://github.com/t-majumder/GPT-Unplugged/stargazers"><img src="https://img.shields.io/github/stars/t-majumder/GPT-Unplugged?style=plastic&logo=github&logoColor=white" alt="GitHub stars"></a> -->
