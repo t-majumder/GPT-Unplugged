@@ -1,6 +1,6 @@
 <p align="center">
   <img src="frontend/images/Logo.png" alt="Theme" width="450">
-
+ 
 <!-- stars and logos --> 
 
 <p align="center">
